@@ -1,8 +1,14 @@
 # Tarea para AD03.
 ## Detalles de la tarea de esta unidad.
-Se trata de hacer una aplicación en Java que acceda a una base de datos (Access) de una tienda de ropa y mediante un menú pueda realizar determinas operaciones. La base de datos vacía, sin tablas, la puedes descargar desde el siguiente enlace:
+Se trata de hacer una aplicación en Java que acceda a una base de datos (Access) de una tienda de ropa y mediante un menú pueda realizar determinas operaciones. La base de datos vacía, sin tablas, la puedes descargar desde el siguiente enlace:  
 
-Base de datos de datos para la tarea(0.01 MB)
+![image](https://user-images.githubusercontent.com/44543081/53701053-6ad4e900-3df9-11e9-9d5d-109c05ecaae9.png)    
+**NO HA SIDO POSIBLE REALIZAR EL EJERCICIO CON EL CONECTOR DEL TEMARIO, A PARTIR DE LA VERSIÓN 8 DE JAVA DEJÓ DE FUNCIOANAR, POR LO QUE FUE NECESARIO INCLUIR LAS LIBRERÍAS UCANACCESS BAJADAS DE LOS REPOSITORIOS DE MAVEN**
+  
+Base de datos de datos para la tarea(0.01 MB) 
+  
+**LA BASE DE DATOS FACILITADA DA ERROR CON LAS LIBRERÍAS INCLUIDAS POR LO QUE GENERÉ UNA NUEVA BASE DE DATOS VACÍA DESDE MSACCESS**
+  
 Puedes utilizar un JOptionPane para presentar el menú con las opciones que permita realizar el programa:
 
 * Crear tabla Empleados. Contendrá los campos: Codigo_Empleado, Nombre_Empleado y Teléfono del mismo.
